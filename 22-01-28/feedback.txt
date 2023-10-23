@@ -1,2 +1,0 @@
-incrementall한 업데이트를 위해서 class deletion의 고려도 해야하지
-않을까? 어떠한 방식으로 구현해야할지..
